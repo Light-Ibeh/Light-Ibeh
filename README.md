@@ -1,74 +1,56 @@
-✨ Light Ibeh — Cloud Engineer | Occupational Therapist | Creator
+# ✨ Light Ibeh
+### *Cloud Engineer • Occupational Therapist • Creator of Systems That Reduce Burnout*
 
-  
+<div align="center">
 
-I’m Light — a Cloud Engineer, Occupational Therapist, and Content Creator passionate about building systems that reduce burnout, automate workflows, and improve access to care.
+[![AltSchool Badge](https://img.shields.io/badge/Cloud%20Engineering-6859EA?style=for-the-badge)](https://altschoolafrica.com/schools/engineering)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/light-ibeh-a21828278)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@becomigthebag)
 
-I just completed my Diploma in Cloud Engineering at AltSchool Africa, where I built real-world projects across Linux, Networking, AWS, CI/CD, Infrastructure, automation, and server deployment.
-I combine my therapeutic background with engineering to design human-centered digital tools for therapists, caregivers, and the neurodivergent community.
-
-I also create content on tech, digital income, and therapeutic awareness.
-
-
----
-
-🔹 What I Do
-
-🛠️ Cloud Engineering
-Linux • Nginx • AWS EC2 • VPC • IAM • S3 • Route 53 • Load Balancers • CI/CD
-Server deployment • DNS • Security groups • Shell scripting • Monitoring
-Capstone Project: MedInsure – A health insurance platform for low-income earners.
-
-🧠 Therapy + Tech
-Designing systems that automate assessment, documentation, and caregiver communication to reduce burnout in the therapy field.
-
-🎥 Content Creation
-I create therapeutic awareness content, RA lifestyle content, and beginner-friendly tech learning content.
-
-🏗️ Community Engineering
-Sharing my journey and teaching others through documentation, breakdown threads, and tutorials.
-
-
+</div>
 
 ---
 
-📝 Quick Summary
+## 🌿 Hi, I'm Light
 
-😊 Pronouns: She/Her
+I’m a **Cloud Engineer**, **Occupational Therapist**, and **Digital Creator** building tools, content, and systems that make life easier for therapists, the neurodivergent community, and people living with chronic conditions like RA.
 
-🎓 Graduate of Cloud Engineering (AltSchool Africa, 2024/2025)
+I recently completed my **Diploma in Cloud Engineering** at AltSchool Africa, where I built real-world projects around:
 
-🔭 Currently working on: My first digital product for therapists
+- Linux administration  
+- Nginx & server deployments  
+- AWS (EC2, VPC, IAM, S3, Route 53)  
+- DNS, load balancing & networking  
+- GitHub Actions & CI/CD  
+- Infrastructure documentation
 
-🌱 Actively improving in: Cloud deployments, DevOps workflows, automation & documentation
-
-🤝 Looking to collaborate on: Cloud projects, open source, therapist-centered tools
-
-💼 Job Interests: Cloud Engineering, DevOps, Technical Writing, Digital Product Development
-
-📫 Email: Lightibeh@gmail.com
-
-
+I blend **therapy + engineering** to create human-centered solutions — from automated assessment tools to burnout-prevention systems.
 
 ---
 
-📌 Featured Skills
+## 🎀 What I’m Passionate About
 
-Cloud & Systems: AWS • Linux • Nginx • Git/GitHub • Bash • Deployments
-
-Web: HTML • CSS • JavaScript (beginner-intermediate)
-
-Tools: Netlify • GitHub Actions • VS Code
-
-Therapy Tech: Workflow design • Assistive technology • Neurodivergent-centered systems
-
-Soft Skills: Communication • Documentation • Teaching • Empathy • Creativity
-
-
+- 🌐 Building cloud-based systems that actually solve problems  
+- 🧠 Designing digital tools for therapists, caregivers and neurodivergent population.
+- 📚 Creating educational & therapeutic content  
+- 🩵 Advocacy for the neurodivergent community  
+- ✍🏽 Documenting my cloud engineering journey  
+- 🌸 Making tech softer, kinder, and easier to understand
 
 ---
 
-📊 GitHub Stats
+## 🌸 My Skill Stack
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=lightibeh&show_icons=true&include_all_commits=true&hide_border=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lightibeh&langs_count=8&layout=compact&hide_border=true" /> |
+**Cloud & Systems**  
+AWS • Linux • Nginx • Shell Scripting • Git/GitHub • Networking • CI/CD • Server Security
 
+**Frontend Basics**  
+HTML • CSS • JavaScript
+
+**Therapy-Tech**  
+Assistive Tech • Workflow Automation • Human-centered design • Neurodivergent support systems
+
+**Soft Skills**  
+Communication • Documentation • Teaching • Problem solving • Empathy • Creativity
+
+---
