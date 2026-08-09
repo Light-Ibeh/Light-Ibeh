@@ -1,56 +1,136 @@
-# ✨ Light Ibeh
-### *Cloud Engineer • Occupational Therapist • Creator of Systems That Reduce Burnout*
+# Hi, I'm Light Ibeh 👋🏽
 
-<div align="center">
+### Cloud Engineer | DevOps | Infrastructure & Automation
 
-[![AltSchool Badge](https://img.shields.io/badge/Cloud%20Engineering-6859EA?style=for-the-badge)](https://altschoolafrica.com/schools/engineering)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/light-ibeh-a21828278)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@becomigthebag)
+I build and troubleshoot cloud infrastructure, containerized applications, and automated delivery workflows.
 
-</div>
+My background in Occupational Therapy gives me a different way of approaching engineering: I naturally think about **systems, users, failure points, documentation, and practical outcomes**.
 
----
-
-## 🌿 Hi, I'm Light
-
-I’m a **Cloud Engineer**, **Occupational Therapist**, and **Digital Creator** building tools, content, and systems that make life easier for therapists, the neurodivergent community, and people living with chronic conditions like RA.
-
-I recently completed my **Diploma in Cloud Engineering** at AltSchool Africa, where I built real-world projects around:
-
-- Linux administration  
-- Nginx & server deployments  
-- AWS (EC2, VPC, IAM, S3, Route 53)  
-- DNS, load balancing & networking  
-- GitHub Actions & CI/CD  
-- Infrastructure documentation
-
-I blend **therapy + engineering** to create human-centered solutions — from automated assessment tools to burnout-prevention systems.
+I'm particularly interested in building infrastructure that is **reliable, reproducible, maintainable, and easy for another engineer to operate**.
 
 ---
 
-## 🎀 What I’m Passionate About
+## ☁️ What I Work With
 
-- 🌐 Building cloud-based systems that actually solve problems  
-- 🧠 Designing digital tools for therapists, caregivers and neurodivergent population.
-- 📚 Creating educational & therapeutic content  
-- 🩵 Advocacy for the neurodivergent community  
-- ✍🏽 Documenting my cloud engineering journey  
-- 🌸 Making tech softer, kinder, and easier to understand
+### Cloud & Infrastructure
+AWS • EC2 • VPC • IAM • S3 • RDS • EKS • Route 53
+
+### DevOps & Automation
+Docker • Kubernetes • Terraform • GitHub Actions • CI/CD • Shell Scripting • Git
+
+### Systems & Networking
+Linux • Ubuntu • Nginx • TCP/IP • DNS • SSL/TLS • Load Balancing • Firewalls
+
+### Application & Data
+Python • Flask • PostgreSQL • MySQL • SQLite • REST APIs
+
+### Engineering Practices
+Infrastructure as Code • Containerization • Configuration Management • Testing • Linting • Technical Documentation • Troubleshooting
+
+---
+
+## 🚀 What I'm Building
+
+I'm currently focused on strengthening my Cloud/DevOps engineering practice through hands-on projects involving:
+
+- Containerized application stacks
+- Infrastructure as Code with Terraform
+- Kubernetes and Amazon EKS
+- AWS infrastructure and networking
+- CI/CD automation with GitHub Actions
+- Linux administration and troubleshooting
+- Database-backed applications
+- Operational documentation and reproducible deployments
+
+I prefer building small, working systems and understanding **why they work, how they fail, and how another engineer can operate them**.
 
 ---
 
-## 🌸 My Skill Stack
+## 🛠️ Selected Projects
 
-**Cloud & Systems**  
-AWS • Linux • Nginx • Shell Scripting • Git/GitHub • Networking • CI/CD • Server Security
+### 📦 Containerized Task Manager
+**Flask • PostgreSQL • Docker • Docker Compose • GitHub Actions**
 
-**Frontend Basics**  
-HTML • CSS • JavaScript
+A containerized task management API demonstrating:
 
-**Therapy-Tech**  
-Assistive Tech • Workflow Automation • Human-centered design • Neurodivergent support systems
+- Multi-container application architecture
+- PostgreSQL persistence
+- Docker health checks and service dependencies
+- Non-root container execution
+- Automated testing and linting
+- CI-based Docker image validation
+- Configuration and secret handling
+- Operational documentation and recovery procedures
 
-**Soft Skills**  
-Communication • Documentation • Teaching • Problem solving • Empathy • Creativity
+🔗 [View repository](https://github.com/Light-Ibeh/containerized-task-manager)
+
+### ☸️ InnovateMart — EKS / Project Bedrock
+**Terraform • AWS VPC • EKS • Kubernetes**
+
+Infrastructure-as-Code project focused on provisioning AWS infrastructure and deploying a Kubernetes-based application environment.
+
+🔗 [View repository](https://github.com/Light-Ibeh/InnovateMart-eks-ProjectBedrock)
+
+### ☁️ AltSchool Cloud Engineering Project
+**AWS • Linux • Nginx • Networking • Deployment**
+
+Cloud engineering project involving server provisioning, application deployment, networking, DNS, and web server configuration.
+
+🔗 [View repository](https://github.com/Light-Ibeh/Altschool-cloud-project)
+
+### 🔎 Check_file
+**Shell Scripting • Linux**
+
+A lightweight shell utility for file validation and system-oriented automation.
+
+🔗 [View repository](https://github.com/Light-Ibeh/Check_file)
 
 ---
+
+## 🧠 My Engineering Approach
+
+I care about more than making something work once.
+
+I aim to build systems that are:
+
+**Reproducible** → another engineer can recreate them.
+
+**Observable** → useful signals make failures easier to understand.
+
+**Maintainable** → configuration and operational knowledge are documented.
+
+**Secure by default** → secrets and unnecessary exposure are avoided.
+
+**Practical** → infrastructure choices should match the actual problem and constraints.
+
+---
+
+## 🌱 Beyond Engineering
+
+Before moving into cloud engineering, I worked professionally in Occupational Therapy.
+
+That experience continues to influence how I approach technology — particularly in:
+
+- Human-centered problem solving
+- Stakeholder communication
+- Documentation
+- Assessment and root-cause analysis
+- Designing practical solutions for real users
+
+I also create educational content around technology, career development, and my multidisciplinary journey.
+
+---
+
+## 📫 Connect With Me
+
+**LinkedIn:** [Light Ugochi Ibeh](https://www.linkedin.com/in/light-ibeh-a21828278)
+
+**GitHub:** [Light-Ibeh](https://github.com/Light-Ibeh)
+
+I'm interested in opportunities involving **Cloud Engineering, DevOps, Cloud Infrastructure, Cloud Support, and Technical Support Engineering**.
+
+---
+
+### Currently learning
+
+AWS Solutions Architecture • Advanced Terraform • Kubernetes • CI/CD • Cloud Infrastructure & Reliability
